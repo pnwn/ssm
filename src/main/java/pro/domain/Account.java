@@ -2,6 +2,7 @@ package pro.domain;
 
 /**
  * test git
+ * hot-fix test
  */
 public class Account {
     private int id;
