@@ -6,6 +6,7 @@ package pro.domain;
  * hot-fix new test
  * master test
  * push test
+ * pull test
  */
 public class Account {
     private int id;
